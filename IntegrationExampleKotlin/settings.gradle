@@ -1,0 +1,2 @@
+include ':itechpspSDK'
+include ':app', ':itechpsp'
